@@ -1,2 +1,2 @@
-# APICeps
-Projeto de exposição de API de Ceps.
+# API CEP
+Ceps exhibition project.
